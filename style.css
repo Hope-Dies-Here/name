@@ -150,7 +150,7 @@ section{
   padding: 0 .5em;
 }
 
-@media (max-width: 800px){
+@media (max-width: 750px){
   .movie-bar-items{
     grid-template-columns: 1fr 1fr;
   }
