@@ -48,6 +48,7 @@ header input{
   padding: .55em .9em;
   width: 15em;
   background-color: #000;
+  color: white;
 }
 
 header a{
